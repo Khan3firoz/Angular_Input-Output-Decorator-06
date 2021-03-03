@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'decoratorsInputOutput';
+  value=''
+  public name = "AkhlaqueAhmad, FirozKhan, and AshfaqueAhmad are Engineers. I am Parent"
+  getData(value) {
+    this.value=value
+  }
 }

@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "decoratorsInputOutput"
+  "defaultProject": "decoratorsInputOutput",
+  "cli": {
+    "analytics": false
+  }
 }
